@@ -1,16 +1,16 @@
-#NewsRoom
+# NewsRoom
 
 ## TABLE OF CONTENTS 
 1. [Overview](##Overview) 
 2. [Product Spec](##Product Spec)
 3. [Wireframes](##Wireframes)
 
-##Overview
+## Overview
 
 
-##Product Spec
+## Product Spec
 
 
-##Wireframes
+## Wireframes
 
 
