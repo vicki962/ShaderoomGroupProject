@@ -44,7 +44,7 @@ Optional:
 
 ## Wireframes
 
-![drawn wireframe](Wireframes2.jpg)
+![wireframe drawing](https://user-images.githubusercontent.com/89495809/140865964-6fd7258f-c507-46c3-9da0-1863f55a4164.jpeg)
 
 **Digital Wireframes & Mockups**
 
