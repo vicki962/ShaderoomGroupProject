@@ -61,7 +61,7 @@ Optional:
 
 **Digital Wireframes & Mockups**
 
-
+<img width="408" alt="Screen Shot 2021-11-09 at 5 35 32 PM" src="https://user-images.githubusercontent.com/89495809/141016702-b3dc7362-a5da-461a-b2b4-194d01006b98.png">
 
 **Interactive Prototype**
 
