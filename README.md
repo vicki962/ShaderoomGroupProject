@@ -44,6 +44,8 @@ Optional:
 
 ## Wireframes
 
+![drawn wireframe](Wireframes2.jpg)
+
 **Digital Wireframes & Mockups**
 
 **Interactive Prototype**
