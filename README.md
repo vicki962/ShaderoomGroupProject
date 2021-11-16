@@ -4,6 +4,7 @@
 1. [Overview](##Overview) 
 2. [Product Spec](##ProductSpec)
 3. [Wireframes](##Wireframes)
+4. [Schema](##Schema)
 
 ## Overview
 
@@ -66,3 +67,34 @@ Optional:
 **Interactive Prototype**
 
 https://user-images.githubusercontent.com/89495809/141018060-1ca9a27e-2c52-47a6-a26d-5e8095c2d707.mov
+
+## Schema
+**Models**
+
+User
+| Property | Type | Description |
+| ----------- | ----------- | ----------- |
+| username | String | unique id for the user and a way to login |
+| firstName | String | user first name |
+| lastName | String | user last name |
+| email | String | a way for user to get notifications |
+| password | String | A way for user to login |
+| image | File | image of the user |
+
+Chats
+| Property | Type | Description |
+| ----------- | ----------- | ----------- |
+| objectId | String | unique id for the user and a way to login |
+| author | Pointer to user | user image and username |
+| title | String | title of the chat|
+| content | String | what the users post |
+| createdAt | DateTime | when the chat started |
+
+Comments
+| Property | Type | Description |
+| ----------- | ----------- | ----------- |
+| objectId | String | unique id for the user and a way to login |
+| author | Pointer to user | user image and username |
+| content | String | what the users post |
+| likeCount | Number | amount of like a comment get |
+| createdAt | DateTime | Date when the comment started |
