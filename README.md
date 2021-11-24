@@ -137,3 +137,10 @@ An Api for Current News:
 | GET | /v2/top-headlines?country=us&category=sports | top sports headlines |
 | GET | /v2/top-headlines?country=us&category=science | top science headlines |
 | GET | /v2/top-headlines?country=us&category=technology | top technology headlines |
+
+
+## Completed User Stories
+
+**Firebase**
+
+**Models**
