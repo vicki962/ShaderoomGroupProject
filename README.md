@@ -143,4 +143,6 @@ An Api for Current News:
 
 **Firebase**
 
+![firebase](https://user-images.githubusercontent.com/44214806/143192550-68c79bfd-1dba-4b1d-a983-7e54b2ccfa8f.gif)
+
 **Models**
