@@ -148,3 +148,7 @@ An Api for Current News:
 **Models Directory**
 
 ![models_directory](https://user-images.githubusercontent.com/44214806/143193958-3cac6fd9-2e98-42d7-9ca7-f219c90eb30d.gif)
+
+**Poster Presentation**
+
+[CIS Poster Template (1).pptx](https://github.com/smileydey/ShaderoomGroupProject/files/7700272/CIS.Poster.Template.1.pptx)
